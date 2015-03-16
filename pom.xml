@@ -4,6 +4,7 @@
 	<groupId>net.cj</groupId>
 	<artifactId>cjmall.demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+        <!-- dependency list -->
 	<dependencies>
 		<dependency>
 			<groupId>javax.servlet</groupId>
